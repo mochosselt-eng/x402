@@ -1,0 +1,7 @@
+{
+  "name": "Image to SVG (Mo Chosselt)",
+  "category": "Services/Endpoints",
+  "logoUrl": "/logos/image-to-svg.png",
+  "description": "Pay-per-call image vectorization: POST a PNG/JPEG/WebP and get a clean, editable SVG back. 0.10 USDC on Base, x402 v1 and v2, no API key.",
+  "websiteUrl": "https://svg.gowander.space"
+}
